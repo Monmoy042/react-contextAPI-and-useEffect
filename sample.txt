@@ -1,0 +1,4 @@
+// Steps of Context API
+1. First we need createContext()--> That we can pass data
+2. Then we need provider. Cause people can access that later
+3. Finally we need consumer 
